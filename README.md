@@ -32,8 +32,9 @@ Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 <br>
 ** npm run start
 <br>
+
 * Abre el navegador y escribe la siguiente URL:
- ** http://localhost:3000
+** http://localhost:3000
 
 * En esta ruta podras ver funciones CRUD con los objetos creados:
-  ** http://localhost:3000/bicicletas
+** http://localhost:3000/bicicletas
