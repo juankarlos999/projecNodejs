@@ -3,8 +3,8 @@
 ![The console](https://github.com/juankarlos999/projecNodejs/blob/master/red-bicicletas/public/img/page_example.png)
 
 
-Este proyecto fue realizado usando el entorno multiplataforma Nodejs en un servidor minimalista llamado Express. Esto con el fin de aplicar los conocimientos basicos 
-aprendidossobre Nodejs, manteniendo la estructura basica Servidor-Cliente-Base de datosde igual forma se implementando la API Map de Leaflet la cual es una libreria de la biblioteca de JavaScript para mapas interactivos compatibles con dispositivos móviles.
+Este proyecto fue realizado usando el entorno multiplataforma Nodejs en un servidor minimalista llamado Express. Con el fin de aplicar los conocimientos basicos 
+aprendidos sobre Nodejs, manteniendo la estructura basica Servidor-Cliente-Base de datosde igual forma se implementando la API Map de Leaflet la cual es una libreria de la biblioteca de JavaScript para mapas interactivos compatibles con dispositivos móviles.
 
 Para Clonar el repositorio utilizando la línea de comandos
 en GitHub, visita la página principal del repositorio.
