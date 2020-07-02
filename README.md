@@ -19,7 +19,7 @@ Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 <br>
   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-* P esiona Enter para crear tu clon loca 
+* Presiona Enter para crear tu clon loca 
 <b  r git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 <b  
   oning into...
@@ -30,10 +30,10 @@ Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 
 * Inicia el servidor con el comando dentro la terminal en la carptea donde se encuentra el proyecto red-bicicletas:
 <br>
-**npm run start
+** npm run start
 <br>
 * Abre el navegador y escribe la siguiente URL:
- **http://localhost:3000
+ ** http://localhost:3000
 
 * En esta ruta podras ver funciones CRUD con los objetos creados:
-  **http://localhost:3000/bicicletas
+  ** http://localhost:3000/bicicletas
