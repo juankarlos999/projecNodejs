@@ -15,13 +15,11 @@ Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 
 * Abre la Termina l.
 * Cambia el directorio de trabajo actual a la ubicación n donde quieres clonar el directorio.
-* Escribe git clone, y luego pega la URL que copiaste an* tes.
-<br>
+* Escribe git clone, y luego pega la URL que copiaste antes.
   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 * Presiona Enter para crear tu clon local 
-<b>git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-<b>  
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY  
   oning into...
   mote: Counting objects: 10, done.
   remote: Compressing objects: 100% (8/8), done.
@@ -30,7 +28,7 @@ Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 
 * Inicia el servidor con el comando dentro la terminal en la carptea donde se encuentra el proyecto red-bicicletas:
 **npm run start**
-<br>
+
 * Abre el navegador y escribe la siguiente URL:
 http://localhost:3000
 
