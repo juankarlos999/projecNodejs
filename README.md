@@ -4,7 +4,7 @@
 
 
 Este proyecto fue realizado usando el entorno multiplataforma Nodejs en un servidor minimalista llamado Express. Con el fin de aplicar los conocimientos basicos 
-aprendidos sobre Nodejs, manteniendo la estructura basica Servidor-Cliente-Base de datosde igual forma se implementando la API Map de Leaflet la cual es una libreria de la biblioteca de JavaScript para mapas interactivos compatibles con dispositivos móviles.
+aprendidos sobre Nodejs, manteniendo la estructura basica Servidor-Cliente-Base de datos, de igual forma se implemento la API Map de Leaflet la cual es una libreria de la biblioteca de JavaScript para mapas interactivos compatibles con dispositivos móviles.
 
 Para Clonar el repositorio utilizando la línea de comandos
 en GitHub, visita la página principal del repositorio.
