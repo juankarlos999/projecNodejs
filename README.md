@@ -16,10 +16,13 @@ Debajo del nombre del repositorio, da clic en Clonar o descargar.
 Abre la Terminal.
 Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
 Escribe git clone, y luego pega la URL que copiaste antes.
+<br>
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Presiona Enter para crear tu clon local.
+<br>
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `Spoon-Knife`...
+<br>
+> Cloning into...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
