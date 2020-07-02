@@ -10,28 +10,30 @@ aprendidossobre Nodejs, manteniendo la estructura basica Servidor-Cliente-Base d
 
 
 Para Clonar el repositorio utilizando la línea de comando
-En GitHub, visita la página principal del repositorio.
-Debajo del nombre del repositorio, da clic en Clonar o descargar.
+En GitHub, visita la página principal del repositor* io.
+Debajo del nombre del repositorio, da clic en Clona* r o descargar* .
 
-Abre la Terminal.
-Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
-Escribe git clone, y luego pega la URL que copiaste antes.
+* Abre la Termina l.
+* Cambia el directorio de trabajo actual a la ubicación n donde quieres clonar el directorio.
+* Escribe git clone, y luego pega la URL que copiaste an* tes.
 <br>
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-Presiona Enter para crear tu clon local.
+  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+* P esiona Enter para crear tu clon loca 
+<b  r git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+<b  
+  oning into...
+  mote: Counting objects: 10, done.
+  remote: Compressing objects: 100% (8/8), done.
+  remove: Total 10 (delta 1), reused 10 (delta 1)
+  Unpacking objects: 100% (10/10), done.
+
+* Inicia el servidor con el comando dentro la terminal en la carptea donde se encuentra el proyecto red-bicicletas:
 <br>
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+**npm run start
 <br>
-> Cloning into...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
+* Abre el navegador y escribe la siguiente URL:
+ **http://localhost:3000
 
-Para iniciar el servidor y ver el sitio web pega este comando en la terminal:
-npm run start
-
-Abre el navegador y escribe la siguiente URL localhost:3000
-
-En esta ruta podras ver funciones CRUD con los objetos creados:
-http://localhost:3000/bicicletas
+* En esta ruta podras ver funciones CRUD con los objetos creados:
+  **http://localhost:3000/bicicletas
